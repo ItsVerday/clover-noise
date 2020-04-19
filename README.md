@@ -23,5 +23,6 @@ This is just scratching the surface of what's possible with Clover Noise. If you
 # Implementations
 Currently, Clover Noise has implementations in the following languages:
 - [GLSL](./src/glsl)
+- [Java](./src/java)
 
 These implementations are free to use, as they are licensed under the MIT License. Credit is not required, but it is still greatly appreciated!
